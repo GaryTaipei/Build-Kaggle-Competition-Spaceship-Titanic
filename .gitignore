@@ -1,0 +1,11 @@
+__pycache__
+asset
+flagged
+include
+config
+Lib
+Scripts
+share
+utils
+.env
+pyvenv.cfg
