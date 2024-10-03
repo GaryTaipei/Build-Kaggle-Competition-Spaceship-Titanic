@@ -1,6 +1,6 @@
 ## Build-Kaggle-Competition-Spaceship-Titanic
 
-Git Clone 程式
+## Git Clone 程式
 1.找個資料夾進入command 視窗然後下指令程式抓下來,例如 C:\virtualenv>git clone https://github.com/GaryTaipei/Build-Kaggle-Competition-Spaceship-Titanic.git  
 
 2.Git Clone 會產生一個 Build-Kaggle-Competition-Spaceship-Titanic 資料夾  
@@ -14,7 +14,7 @@ Git Clone 程式
 6.然後從彈出的瀏覽視窗選擇 C:\virtualenv\Build-Kaggle-Competition-Spaceship-Titanic\Scripts\Python.exe 這樣就可以將解譯器設定為虛擬環境的 Python 執行程式  
 
 
-安裝需要的 Extension  
+## 安裝需要的 Extension  
 1.安裝 Jupyter 套件，在spaceship_titanic.py 及 for_submission.py 分段執行，在 python 程式從上而下，將要執行的程式選取後按下 shift + enter 就可以在右邊的執行視窗顯示執行結果。  
 
 2.在 VS Code 終端機輸入 pip install -r requirements.txt 安裝所需要的延伸套件。  
